@@ -59,6 +59,7 @@ This Java program creates a simple ATM User Interface with options for Internet 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE]
+(https://github.com/Mohd-misbah/ATMUI/blob/main/LICENSE) file for details.
 
 Feel free to modify and enhance the program as needed for your specific requirements.
