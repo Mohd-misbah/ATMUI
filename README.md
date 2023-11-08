@@ -2,7 +2,7 @@
 
 This Java program creates a simple ATM User Interface with options for Internet Banking, OTP Generation, Cash Withdrawal, Fast Cash, Check Balance, and Mini Statement. The interface includes text fields for entering a PIN and an amount, checkboxes for taking a receipt, and labels to display account information, balance, and messages.
 
-![Demo](https://github.com/your-username/ATMUI/demo.gif)
+![Demo](https://github.com/mohd-misbah/ATMUI/demo.gif)
 
 ## Features
 
@@ -25,7 +25,7 @@ This Java program creates a simple ATM User Interface with options for Internet 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ATMUI.git
+    git clone https://github.com/mohd-misbah/ATMUI.git
     ```
 
 2. Compile the Java source code:
@@ -56,12 +56,9 @@ This Java program creates a simple ATM User Interface with options for Internet 
 
 7. To exit the program, click the close button in the top-right corner of the window.
 
-## Contributors
-
-- [Your Name]
 
 ## License
 
-This program is provided under the [License Name] License.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to modify and enhance the program as needed for your specific requirements.
